@@ -17,3 +17,10 @@ The primary objective of this project is to analyze and visualize coffee shop sa
 **Tools & Techniques Used**
 ---
 
+- Microsoft Excel
+- Pivot Tables & Pivot Charts
+- Slicers
+- KPI Analysis
+- Data Cleaning & Formatting
+- Dashboard Design
+- Data Visualization
