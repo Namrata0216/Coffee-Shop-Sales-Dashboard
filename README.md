@@ -2,8 +2,7 @@
 ---
 An interactive and data-driven Coffee Shop Sales Dashboard built using Microsoft Excel to analyze sales performance, customer footfall, product trends, and store-wise insights through dynamic visualizations and KPI metrics. The dashboard helps in transforming raw sales data into meaningful business insights for better decision-making.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+──────────────────────────────
 **Project Objectives**
 ---
 
@@ -14,7 +13,7 @@ The primary objective of this project is to analyze and visualize coffee shop sa
 - Compare store-wise sales and footfall
 - Improve reporting efficiency using interactive Excel features.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+──────────────────────────────
 
 **Tools & Techniques Used**
 ---
@@ -27,7 +26,7 @@ The primary objective of this project is to analyze and visualize coffee shop sa
 - Dashboard Design
 - Data Visualization
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+──────────────────────────────
 
 **Dashboard Features**
 ---
@@ -44,7 +43,7 @@ This section highlights top-selling products and category-wise sales contributio
 ### 4. Interactive Dashboard Visualization
 The dashboard includes dynamic charts, slicers, and filters that allow users to interact with the data easily and generate meaningful business insights through clear visual representation.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+──────────────────────────────
 
 **Project Workflow**
 ---
@@ -56,7 +55,7 @@ The dashboard includes dynamic charts, slicers, and filters that allow users to 
 - Data Visualization & Insights
 - Final Outcome.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+──────────────────────────────
 
 **Project Outcome**
 ---
@@ -65,14 +64,14 @@ The Coffee Shop Sales Dashboard successfully converts raw transactional data int
 
 This dashboard can help business owners and analysts make informed decisions by providing clear and interactive visual insights.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+──────────────────────────────
 
 **Dashboard Preview**
 ---
 
 <img width="1670" height="740" alt="dashboard" src="https://github.com/user-attachments/assets/29e8300d-204d-4119-bd02-a08fe5398e26" />
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+──────────────────────────────
 
 **Project Files**
 ---
@@ -84,7 +83,7 @@ This dashboard can help business owners and analysts make informed decisions by 
 | Dashboard Screenshot.png | Dashboard preview image |
 | README.md | Project documentation |
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+──────────────────────────────
 
 **Skills Developed**
 ---
@@ -97,7 +96,7 @@ This dashboard can help business owners and analysts make informed decisions by 
 - Business Reporting
 - Microsoft Excel
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+──────────────────────────────
 
 **🌐 Connect With Me**
 ---
