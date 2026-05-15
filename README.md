@@ -72,7 +72,7 @@ This dashboard can help business owners and analysts make informed decisions by 
 
 <img width="1670" height="740" alt="dashboard" src="https://github.com/user-attachments/assets/29e8300d-204d-4119-bd02-a08fe5398e26" />
 
-──────────────────────────────
+---
 
 **Project Files**
 ---
