@@ -24,3 +24,18 @@ The primary objective of this project is to analyze and visualize coffee shop sa
 - Data Cleaning & Formatting
 - Dashboard Design
 - Data Visualization
+
+**Dashboard Features**
+---
+
+### 🔹 Sales Performance Analysis
+The dashboard provides a complete overview of overall sales performance by tracking total revenue, average bill value, and business growth trends through interactive KPI cards and charts.
+
+### 🔹 Customer & Order Insights
+The dashboard analyzes customer footfall and ordering behavior across different hours and weekdays, helping in understanding customer activity patterns and peak business timings.
+
+### 🔹 Product & Category Analysis
+This section highlights top-selling products and category-wise sales contribution, making it easier to identify high-performing products and customer preferences.
+
+### 🔹 Interactive Dashboard Visualization
+The dashboard includes dynamic charts, slicers, and filters that allow users to interact with the data easily and generate meaningful business insights through clear visual representation.
