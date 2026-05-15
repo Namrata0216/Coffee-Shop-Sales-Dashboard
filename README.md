@@ -84,5 +84,25 @@ This dashboard can help business owners and analysts make informed decisions by 
 | Dashboard Screenshot.png | Dashboard preview image |
 | README.md | Project documentation |
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**Skills Developed**
+---
+
+- Data Analysis
+- Data Visualization
+- Dashboard Design
+- KPI Analysis
+- Pivot Tables & Charts
+- Business Reporting
+- Microsoft Excel
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**🌐 Connect With Me**
+---
+
+- LinkedIn: [Namrata Gupta](www.linkedin.com/in/
+namrata-gupta-9674ab400)
 
 
