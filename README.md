@@ -12,4 +12,8 @@ The primary objective of this project is to analyze and visualize coffee shop sa
 - Analyze customer ordering patterns across different hours and weekdays
 - Identify top-performing products and categories
 - Compare store-wise sales and footfall
-- Improve reporting efficiency using interactive Excel features
+- Improve reporting efficiency using interactive Excel features.
+
+**Tools & Techniques Used**
+---
+
