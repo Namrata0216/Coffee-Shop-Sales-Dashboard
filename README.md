@@ -74,5 +74,15 @@ This dashboard can help business owners and analysts make informed decisions by 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+**Project Files**
+---
+
+| File Name | Description |
+|---|---|
+| Coffee Shop Sales Dashboard.xlsx | Main Excel dashboard file |
+| Raw Dataset.csv | Dataset used for analysis |
+| Dashboard Screenshot.png | Dashboard preview image |
+| README.md | Project documentation |
+
 
 
