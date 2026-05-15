@@ -27,7 +27,7 @@ The primary objective of this project is to analyze and visualize coffee shop sa
 - Dashboard Design
 - Data Visualization
 
-──────────────────────────────
+---
 
 **Dashboard Features**
 ---
@@ -44,7 +44,7 @@ This section highlights top-selling products and category-wise sales contributio
 ### 4. Interactive Dashboard Visualization
 The dashboard includes dynamic charts, slicers, and filters that allow users to interact with the data easily and generate meaningful business insights through clear visual representation.
 
-──────────────────────────────
+---
 
 **Project Workflow**
 ---
@@ -56,7 +56,7 @@ The dashboard includes dynamic charts, slicers, and filters that allow users to 
 - Data Visualization & Insights
 - Final Outcome.
 
-──────────────────────────────
+---
 
 **Project Outcome**
 ---
@@ -65,7 +65,7 @@ The Coffee Shop Sales Dashboard successfully converts raw transactional data int
 
 This dashboard can help business owners and analysts make informed decisions by providing clear and interactive visual insights.
 
-──────────────────────────────
+---
 
 **Dashboard Preview**
 ---
@@ -84,7 +84,7 @@ This dashboard can help business owners and analysts make informed decisions by 
 | Dashboard Screenshot.png | Dashboard preview image |
 | README.md | Project documentation |
 
-──────────────────────────────
+---
 
 **Skills Developed**
 ---
@@ -97,7 +97,7 @@ This dashboard can help business owners and analysts make informed decisions by 
 - Business Reporting
 - Microsoft Excel
 
-──────────────────────────────
+---
 
 **🌐 Connect With Me**
 ---
