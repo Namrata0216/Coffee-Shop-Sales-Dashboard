@@ -27,6 +27,8 @@ The primary objective of this project is to analyze and visualize coffee shop sa
 - Dashboard Design
 - Data Visualization
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 **Dashboard Features**
 ---
 
@@ -41,3 +43,36 @@ This section highlights top-selling products and category-wise sales contributio
 
 ### 4. Interactive Dashboard Visualization
 The dashboard includes dynamic charts, slicers, and filters that allow users to interact with the data easily and generate meaningful business insights through clear visual representation.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**Project Workflow**
+---
+
+- Data Collection
+- Data Cleaning & Preparation
+- Data Processing
+- Dashboard Development
+- Data Visualization & Insights
+- Final Outcome.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**Project Outcome**
+---
+
+The Coffee Shop Sales Dashboard successfully converts raw transactional data into an interactive analytical report. The project demonstrates how Microsoft Excel can be effectively used for business intelligence and performance monitoring without advanced BI tools.
+
+This dashboard can help business owners and analysts make informed decisions by providing clear and interactive visual insights.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**Dashboard Preview**
+---
+
+<img width="1670" height="740" alt="dashboard" src="https://github.com/user-attachments/assets/29e8300d-204d-4119-bd02-a08fe5398e26" />
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
