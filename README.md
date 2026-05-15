@@ -14,6 +14,8 @@ The primary objective of this project is to analyze and visualize coffee shop sa
 - Compare store-wise sales and footfall
 - Improve reporting efficiency using interactive Excel features.
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 **Tools & Techniques Used**
 ---
 
